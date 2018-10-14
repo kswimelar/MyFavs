@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F91A6F121738CB7000ABF5F /* Molly Hatchet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F91A6E921738CB6000ABF5F /* Molly Hatchet.jpg */; };
+		0F91A6F221738CB7000ABF5F /* Styx.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F91A6EA21738CB6000ABF5F /* Styx.jpg */; };
+		0F91A6F321738CB7000ABF5F /* Sammy Hagar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F91A6EB21738CB6000ABF5F /* Sammy Hagar.jpg */; };
+		0F91A6F421738CB7000ABF5F /* Van Halen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F91A6EC21738CB6000ABF5F /* Van Halen.jpg */; };
+		0F91A6F521738CB7000ABF5F /* Judas Priest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F91A6ED21738CB6000ABF5F /* Judas Priest.jpg */; };
+		0F91A6F621738CB7000ABF5F /* Rush.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F91A6EE21738CB6000ABF5F /* Rush.jpg */; };
+		0F91A6F721738CB7000ABF5F /* Creed.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F91A6EF21738CB7000ABF5F /* Creed.jpg */; };
+		0F91A6F821738CB7000ABF5F /* AC DC.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0F91A6F021738CB7000ABF5F /* AC DC.jpg */; };
 		904D475D1F82D7A6008D61B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D475C1F82D7A6008D61B2 /* AppDelegate.swift */; };
 		904D475F1F82D7A6008D61B2 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D475E1F82D7A6008D61B2 /* MasterViewController.swift */; };
 		904D47611F82D7A6008D61B2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 904D47601F82D7A6008D61B2 /* DetailViewController.swift */; };
@@ -32,6 +40,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F91A6E921738CB6000ABF5F /* Molly Hatchet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Molly Hatchet.jpg"; sourceTree = "<group>"; };
+		0F91A6EA21738CB6000ABF5F /* Styx.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Styx.jpg; sourceTree = "<group>"; };
+		0F91A6EB21738CB6000ABF5F /* Sammy Hagar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Sammy Hagar.jpg"; sourceTree = "<group>"; };
+		0F91A6EC21738CB6000ABF5F /* Van Halen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Van Halen.jpg"; sourceTree = "<group>"; };
+		0F91A6ED21738CB6000ABF5F /* Judas Priest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Judas Priest.jpg"; sourceTree = "<group>"; };
+		0F91A6EE21738CB6000ABF5F /* Rush.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Rush.jpg; sourceTree = "<group>"; };
+		0F91A6EF21738CB7000ABF5F /* Creed.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Creed.jpg; sourceTree = "<group>"; };
+		0F91A6F021738CB7000ABF5F /* AC DC.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "AC DC.jpg"; sourceTree = "<group>"; };
 		904D47591F82D7A6008D61B2 /* MyBand1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyBand1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		904D475C1F82D7A6008D61B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		904D475E1F82D7A6008D61B2 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +119,14 @@
 		904D47701F82DB76008D61B2 /* photos */ = {
 			isa = PBXGroup;
 			children = (
+				0F91A6F021738CB7000ABF5F /* AC DC.jpg */,
+				0F91A6EF21738CB7000ABF5F /* Creed.jpg */,
+				0F91A6ED21738CB6000ABF5F /* Judas Priest.jpg */,
+				0F91A6E921738CB6000ABF5F /* Molly Hatchet.jpg */,
+				0F91A6EE21738CB6000ABF5F /* Rush.jpg */,
+				0F91A6EB21738CB6000ABF5F /* Sammy Hagar.jpg */,
+				0F91A6EA21738CB6000ABF5F /* Styx.jpg */,
+				0F91A6EC21738CB6000ABF5F /* Van Halen.jpg */,
 				904D47711F82DBBB008D61B2 /* 38 Special.jpg */,
 				904D47721F82DBBB008D61B2 /* 45647127.jpg */,
 				904D47731F82DBBB008D61B2 /* Band Perry.jpg */,
@@ -184,15 +208,23 @@
 			files = (
 				904D478F1F82DBBB008D61B2 /* Main.png in Resources */,
 				904D47841F82DBBB008D61B2 /* Eagles.jpg in Resources */,
+				0F91A6F621738CB7000ABF5F /* Rush.jpg in Resources */,
+				0F91A6F321738CB7000ABF5F /* Sammy Hagar.jpg in Resources */,
+				0F91A6F421738CB7000ABF5F /* Van Halen.jpg in Resources */,
+				0F91A6F121738CB7000ABF5F /* Molly Hatchet.jpg in Resources */,
+				0F91A6F521738CB7000ABF5F /* Judas Priest.jpg in Resources */,
+				0F91A6F821738CB7000ABF5F /* AC DC.jpg in Resources */,
 				904D478E1F82DBBB008D61B2 /* logo402.png in Resources */,
 				904D47831F82DBBB008D61B2 /* Band Perry.jpg in Resources */,
 				904D47851F82DBBB008D61B2 /* Joe Cocker.jpg in Resources */,
 				904D478B1F82DBBB008D61B2 /* logo291.png in Resources */,
 				904D478D1F82DBBB008D61B2 /* logo401.png in Resources */,
+				0F91A6F221738CB7000ABF5F /* Styx.jpg in Resources */,
 				904D47901F82DBBB008D61B2 /* Miranda Lambert.jpg in Resources */,
 				904D478A1F82DBBB008D61B2 /* logo152.png in Resources */,
 				904D47821F82DBBB008D61B2 /* 45647127.jpg in Resources */,
 				904D47691F82D7A6008D61B2 /* LaunchScreen.storyboard in Resources */,
+				0F91A6F721738CB7000ABF5F /* Creed.jpg in Resources */,
 				904D47871F82DBBB008D61B2 /* Leonard Skynard.jpg in Resources */,
 				904D478C1F82DBBB008D61B2 /* logo292.png in Resources */,
 				904D47811F82DBBB008D61B2 /* 38 Special.jpg in Resources */,
